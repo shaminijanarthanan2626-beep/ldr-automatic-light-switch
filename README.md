@@ -40,8 +40,7 @@ Add circuit
 
 A physical prototype was built on a breadboard and mounted inside a cardboard diorama (styled as a garden with artificial flowers and lamp posts) to visually demonstrate how the light would activate automatically in low-light conditions, mimicking a real streetlight setup.
 
-*(See `demo-photos/` folder for images of the working model.)*
-
+Add circuit image
 ## How to Build
 
 1. Place the LDR and a fixed resistor in series on the breadboard to form a voltage divider.
