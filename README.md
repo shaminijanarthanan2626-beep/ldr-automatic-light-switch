@@ -37,9 +37,9 @@ The circuit was designed and simulated in **Tinkercad** before physical assembly
 ![Circuit Diagram](circuit.jpg)
 ## Prototype / Demo
 
-A physical prototype was built on a breadboard and mounted inside a cardboard diorama (styled as a garden with artificial flowers and lamp posts) to visually demonstrate how the light would activate automatically in low-light conditions, mimicking a real streetlight setup.
+A physical prototype was built on a breadboard and mounted inside a cardboard diorama (styled as a garden with artificial flowers and lamp posts) to visually demonstrate how the light would activate automatically in low-light conditions, mimicking a real streetlight setup
 
-Add circuit image
+## Demo ![Demo](Demo.jpg)
 ## How to Build
 
 1. Place the LDR and a fixed resistor in series on the breadboard to form a voltage divider.
