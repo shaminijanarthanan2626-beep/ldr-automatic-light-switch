@@ -28,13 +28,13 @@ This project simulates a real-world automatic streetlight / garden light system.
 5. This creates an automatic, sensor-driven ON/OFF switching behavior with no manual intervention.
 
 ## Circuit Diagram
-
+## circuit ![circuit](circuit .jpg)
 The circuit was designed and simulated in **Tinkercad** before physical assembly.
 - 9V battery → breadboard power rails
 - LDR + resistor → voltage divider feeding transistor base
 - Transistor (BC547) → switches LED branch
 - LED + current-limiting resistor → output indicator
-![Circuit Diagram](circuit.jpg)
+- 
 ## Prototype / Demo
 
 A physical prototype was built on a breadboard and mounted inside a cardboard diorama (styled as a garden with artificial flowers and lamp posts) to visually demonstrate how the light would activate automatically in low-light conditions, mimicking a real streetlight setup
