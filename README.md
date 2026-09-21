@@ -34,8 +34,7 @@ The circuit was designed and simulated in **Tinkercad** before physical assembly
 - LDR + resistor → voltage divider feeding transistor base
 - Transistor (BC547) → switches LED branch
 - LED + current-limiting resistor → output indicator
-
-## circuit ![circuit](circuit .jpg)
+![Circuit Diagram](circuit .jpg)
 ## Prototype / Demo
 
 A physical prototype was built on a breadboard and mounted inside a cardboard diorama (styled as a garden with artificial flowers and lamp posts) to visually demonstrate how the light would activate automatically in low-light conditions, mimicking a real streetlight setup.
